@@ -19,3 +19,6 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Keep env variables safe
+/config/env_variables.yml

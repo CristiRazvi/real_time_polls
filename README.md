@@ -16,4 +16,5 @@
 ## Configuration ##
 
 * Set variables in __env_variables.yml__.
+
 You can take __env_variables.yml.example__ as an example.
